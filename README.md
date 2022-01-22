@@ -1,4 +1,4 @@
-# PokeBall
+# Poké Ball
 
 A simple 3D model of a Poké Ball from Pokémon. 
 
